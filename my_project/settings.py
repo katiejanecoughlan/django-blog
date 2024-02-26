@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-o$e*p#en=4ofghovopsg(pj3$g(vx&wiapd167m#3gm2j6dsdg
 DEBUG = False
 
 ALLOWED_HOSTS = ['8000-katiejanecou-djangoblog-m28mneim7ud.ws-eu108.gitpod.io',
-,'.herokuapp.com'
+,'django-blog-kjc-151fc180ff86.herokuapp.com'
 ]
 
 
